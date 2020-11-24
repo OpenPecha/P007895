@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W3PD190
   title: རྒྱལ་མཁན་པོ་གྲགས་པ་རྒྱལ་མཚན་གྱི་སྙན་རྩོམ་ཕྱོགས་བསྒྲིགས།
-  volume: ''
+  volume:
+    3514a827a5104a5ab5225dfc41ab1f71:
+      image_group_id: I4PD4670
+      title: Volume 1 of rgyal mkhan po grags pa rgyal mtshan gyi snyan rtsom phyogs
+        bsgrigs/
+      volume_number: 1
+      total_pages: 720
   author: ''
+ebook_metadata:
+  title: རྒྱལ་མཁན་པོ་གྲགས་པ་རྒྱལ་མཚན་གྱི་སྙན་རྩོམ་ཕྱོགས་བསྒྲིགས།
+  author: ''
+  sku: P007895
+  cover: cover.jpg
+  layers:
+  - pagination
